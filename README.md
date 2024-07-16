@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/Screenshot 2024-07-16 155413.png)
-![](assets/images/Screenshot 2024-07-16 155428.png)
+![mobile-screenshot](assets/images/Screenshot 2024-07-16 155413.png)
+![desltop-screenshot](assets/images/Screenshot 2024-07-16 155428.png)
 
 ### Links
 
@@ -43,11 +43,11 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to position different sections (<main>, <footer> etc.) properly to their places.
+Most of the things in this project were same as previous one, so no new concepts learnt, but learnt how to complete it faster.
 
 ### Continued development
 
-I may use this as template for my future projects.
+I may use this as template for my future projects and also refer to it to refresh some concepts.
 
 ## Author
 
