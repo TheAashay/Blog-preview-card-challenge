@@ -63,6 +63,12 @@ body {
 .brief {
     font-size: .8rem;
     color: hsl(0, 0%, 50%);
+    transition: all 0.3s ease;
+}
+
+.brief:hover {
+    color: hsl(0, 0%, 25%);
+    font-weight: 600;
 }
 
 .auth-name, .tag {
@@ -92,5 +98,7 @@ footer p {
     text-align: center;
 }
 
-
+p {
+    cursor: pointer;
+}
   
