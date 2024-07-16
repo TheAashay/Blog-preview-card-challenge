@@ -24,8 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-screenshot] (assets/images/Screenshot-desktop.png)
-![desltop-screenshot] (assets/images/Screenshot-mobile.png)
+![mobile-screenshot](assets/images/Screenshot-desktop.png)
+
+![desltop-screenshot](assets/images/Screenshot-mobile.png)
 
 ### Links
 
