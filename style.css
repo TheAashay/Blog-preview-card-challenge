@@ -40,11 +40,12 @@ body {
     padding: .5rem 1rem;
 }
 
-.author {
+.id {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     padding: 1rem;
+    text-decoration: none;
 }
 
 .auth-logo {
@@ -84,6 +85,7 @@ span {
     background-color: hsl(47, 88%, 63%);
     padding: .5rem 1rem;
     border-radius: .325rem;
+    color: hsl(0, 0%, 7%);
 }
 
 .tag, .date, .title, .auth-name {
@@ -98,7 +100,10 @@ footer p {
     text-align: center;
 }
 
-p {
+.id {
     cursor: pointer;
 }
-  
+
+.tag a {
+    padding: 0;
+}
